@@ -184,7 +184,6 @@ p a:hover {
 	font-weight: normal;
 	margin: 0;
 	padding: 0;
-	text-transform: uppercase;
 }
 #body div ul li div p {
 	padding: 30px 30px 18px;
@@ -199,7 +198,6 @@ p a:hover {
 	margin: 0;
 	padding: 8px 28px;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 #body div ul li div a.more:hover {
 	color: #252525;
@@ -238,7 +236,6 @@ p a:hover {
 	font-weight: normal;
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
-	text-transform: uppercase;
 }
 #body #featured div span {
 	background: #252525;
@@ -257,7 +254,6 @@ p a:hover {
 	padding: 26px 27px 22px;
 	text-align: center;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 #body #featured div a:hover {
 	background: #1fc3bc;
@@ -285,7 +281,6 @@ p a:hover {
 	padding: 0;
 	text-align: center;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 #body > ul li a img {
 	border: 2px solid #1a1a1a;
@@ -317,7 +312,6 @@ p a:hover {
 	margin: 0 0 37px;
 	padding: 20px 10px;
 	text-align: center;
-	text-transform: uppercase;
 	width: 596px;
 }
 #body form textarea {
