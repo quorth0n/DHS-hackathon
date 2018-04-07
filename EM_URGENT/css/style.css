@@ -42,7 +42,7 @@ p a:hover {
 }
 #header {
 	margin: 0 auto;
-	padding: 44px 0 50px;
+	padding: 44px 0 20px;
 	text-align: center;
 	width: 960px;
 }
@@ -116,7 +116,7 @@ p a:hover {
 	width: 560px;
 }
 #body > div .article h2 {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -131,7 +131,7 @@ p a:hover {
 	background: #252525;
 	color: #fff;
 	display: inline-block;
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
 	font-weight: normal;
 	margin: 0 0 30px;
@@ -228,14 +228,14 @@ p a:hover {
 	width: 490px;
 }
 #body #featured div h2 {
-	background: #fff;
+	/*background: #fff;*/
 	color: #000;
 	display: inline-block;
-	font-family: poller_oneregular;
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	font-weight: normal;
-	margin: 0 0 18px;
-	padding: 23px 27px 20px;
+	/*margin: 0 0 18px;
+	padding: 23px 27px 20px;*/
 }
 #body #featured div span {
 	background: #252525;
